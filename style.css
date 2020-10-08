@@ -1,0 +1,32 @@
+#form {
+    background-color: #eef;
+    padding: 10px;
+    width: 400px;
+}
+.lr	{
+    width: 100px;
+    text-align: right;
+    float: left;
+}
+.rr	{
+    width: 200px;
+    float: left;
+    padding-left: 10px;
+}
+.info	{
+    clear:both;
+    width: 300px;
+    padding-left: 110px;
+    height: 20px;
+}
+#submit {
+    clear:both;
+    width: 300px;
+    padding-left: 110px;
+}
+.info_ok {
+    color: green;
+}
+.error {
+    color: red;
+}
